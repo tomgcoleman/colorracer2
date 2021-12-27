@@ -1,0 +1,38 @@
+
+show daily challenge: timer, targets
+
+x support multi touch
+x ignore screen rotation
+x detect win,
+x show win, : gold outer border.
+x show who won first
+
+x add reset button, show when game is over
+
+add config page :
+to open : visible icon when in win state
+to open : two gear icons, click both within 5 seconds
+open / close : multi touch.
+
+select colors, patterns
+add config for textures, custom colors, size, timer
+
+config:
+x white border around selected cell
+x tap top = change center
+x tap bottom = change edge
+x green button = save = on the left
+x red button = close config = on the right
+x add buttons to iterate patterns
+x draw different patterns
+x single button to apply default patterns
+x single button to apply color blind colors
+x work well in wide browser
+add color picker
+
+add levels with different solution spots
+add levels where every X clicks / solves the stripes or colors go away
+
+add competition items : white out, lock out
+add options : scroll through choices
+
